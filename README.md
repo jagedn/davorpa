@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 #### 💬 Bio
 
-I'm David Ordás, from Spain. I'm a unique person because point focus on details. Enthusiast of the programming world, defending an www accesible for everyone and with data privacy first, I'm always thinking in clean code to prevent overengineering. Also always eager to continue learning (like in life, little step by step, "keep on going") and going to tech meetups.
+I'm David Ordás, from Spain. I'm a unique person because point focus on details. Enthusiast of the programming world, defending an www accesible for everyone and with data privacy first, I'm always thinking in clean code to prevent overengineering. Also always eager to continue learning (like in life, little step by step, "keep on going") and taking sit on tech meetups.
 
 My skills are mainly at old school web development using Java, J2EE and Spring Framework as backend, but also the base of other modern or functional languages. After all, it is a fact that the most important thing is to know how to code correctly to achieve an efficient and easy-to-maintain product.
 
