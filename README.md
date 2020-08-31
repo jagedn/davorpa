@@ -15,6 +15,8 @@ I'm David Ordás, from Spain. I'm a unique person because point focus on details
 
 My skills are mainly at old school web development using Java, J2EE and Spring Framework as backend, but also the base of other modern or functional languages. After all, it is a fact that the most important thing is to know how to code correctly to achieve an efficient and easy-to-maintain product.
 
+To don't overflow my brain, I try to keep calm practising mindfulness and sports (mainly cyclism), cooking dishes and painting some mandalaarts.
+
 <!--
 - 🔭 I’m currently working on ...
 -->
