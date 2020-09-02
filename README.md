@@ -38,7 +38,7 @@ To don't overflow my brain or get fresh ideas, I try to keep calm practising min
 
 #### 📫 How to reach me:
 
-[![LinkedIn Badge](assets/rectbadge-linkedin.svg)](https://www.linkedin.com/in/davorpa/) [![SAP People Badge](assets/rectbadge-sap.svg)]](https://people.sap.com/davorpa) [![GoodReads Badge](assets/rectbadge-goodreads.svg)]](https://www.goodreads.com/davorpa)
+[![LinkedIn Badge](assets/rectbadge-linkedin.svg)](https://www.linkedin.com/in/davorpa/) [![SAP People Badge](assets/rectbadge-sap.svg)](https://people.sap.com/davorpa) [![GoodReads Badge](assets/rectbadge-goodreads.svg)](https://www.goodreads.com/davorpa)
 
 <!--
 - 😄 Pronouns: ...
