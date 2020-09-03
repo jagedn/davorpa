@@ -17,7 +17,7 @@ I'm a unique person because I point focus on details. Enthusiast of the programm
 
 My skills are mainly at old school web development using Java, J2EE and Spring Framework as backend, but also the base of other modern or functional languages. After all, it is a fact that the most important thing is to know how to code correctly to achieve an efficient and easy-to-maintain product.
 
-To don't overflow my brain or get fresh ideas, I try to keep calm practising mindfulness and sports (mainly cycling), cooking dishes and painting some mandala arts.
+To don't overflow my brain, develop my creativity or refresh ideas, I try to keep calm practising mindfulness and sports (mainly cycling), cooking dishes and painting some mandala arts.
 
 <!--
 - 🔭 I’m currently working on ...
