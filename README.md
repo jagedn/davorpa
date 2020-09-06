@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 I'm David Ordás, from Asturias. It's a little nature paradise placed at north of Spain.
 
-I'm a unique person because I point focus on details. Enthusiast of the programming world, defending a www accessibility for everyone and with data privacy first, I'm always thinking in clean code to prevent over-engineering. Also always eager to continue learning (like in life, little step by step, "keep on going") and taking sit on tech meetups.
+I'm not a unique person because I point focus on details. Enthusiast of the programming world, defending a www accessibility for everyone and with data privacy first, I'm always thinking in clean code to prevent over-engineering. Also always eager to continue learning (like in life, little step by step, "keep on going") and taking sit on tech meetups.
 
 My skills are mainly at old school web development using Java, J2EE and Spring Framework as backend, but also the base of other modern or functional languages. After all, it is a fact that the most important thing is to know how to code correctly to achieve an efficient and easy-to-maintain product.
 
